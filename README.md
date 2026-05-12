@@ -1,4 +1,4 @@
-# SherlockKudou
+# SherlockGougou
 
 **Android & Systems Developer | Image Processing & Performance Optimization**
 
@@ -9,11 +9,11 @@
 
 ## About Me
 
-SherlockKudou is an experienced developer with a strong focus on building high-performance Android applications and image processing libraries. Since joining GitHub in 2016, the developer has maintained a builder-oriented contribution style, with 98.4% of activity centered on direct commits across public repositories.
+SherlockGougou is an experienced developer with a strong focus on building high-performance Android applications and image processing libraries. Since joining GitHub in 2016, the developer has maintained a builder-oriented contribution style, with 98.4% of activity centered on direct commits across public repositories.
 
 Recent activity demonstrates consistent engagement in core technical areas including Java, Kotlin, C, and Swift, with active development across 8 public repositories in the last 90 days. Key focus areas include large-scale image handling, memory optimization, and Android platform-specific solutions.
 
-> SherlockKudou 是一位专注于高性能 Android 应用开发和图像处理库构建的开发者。自 2016 年加入 GitHub 以来，以构建者为主导的贡献风格，98.4% 的活动集中在公共仓库的直接提交上。
+> SherlockGougou 是一位专注于高性能 Android 应用开发和图像处理库构建的开发者。自 2016 年加入 GitHub 以来，以构建者为主导的贡献风格，98.4% 的活动集中在公共仓库的直接提交上。
 > 
 > 近期活动显示在 Java、Kotlin、C 和 Swift 等核心技术领域保持持续投入，过去 90 天内在 8 个公共仓库中保持活跃。主要专注方向为大规模图像处理、内存优化以及 Android 平台特定解决方案。
 
